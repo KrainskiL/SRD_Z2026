@@ -22,6 +22,9 @@ Email: lkrain@sgh.waw.pl
 * wykłady: Bogumił Kamiński
 * ćwiczenia: Łukasz Kraiński, Marcin Rutecki
 
+Konsultacje:
+* Łukasz Kraiński - sala C-3B wtorki 15:20-17:00, lub online na MS Teams
+* Marcin Rutecki - online na MS Teams
 ---
 **Harmonogram**
 
