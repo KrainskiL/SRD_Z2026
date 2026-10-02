@@ -27,9 +27,9 @@ Email: lkrain@sgh.waw.pl
 
 * wykłady: wtorki, G-Aula B, 09:50
 
-* ćwiczenia: wtorki, C-4:
-  * 13:30 (Grupy 11 i 12) - Marcin Rutecki
-  * 15:20 (Grupy 13 i 14) - Łukasz Kraiński
+* ćwiczenia: wtorki, C-4D:
+  * 13:30 (Grupy 11 i 12) - Łukasz Kraiński
+  * 15:20 (Grupy 13 i 14) - Marcin Rutecki
   * 17:10 (Grupy 15 i 16) - Łukasz Kraiński
   * 19:00 (Grupa 17) - Łukasz Kraiński
 
